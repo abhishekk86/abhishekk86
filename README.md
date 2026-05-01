@@ -14,7 +14,8 @@ Currently, I’m diving deep into AI and building products that combine intellig
 📌 Focus areas:
 - AI-powered applications  
 - Cross-app integrations & authentication  
-- Building production-ready, scalable platforms  
+- Building production-ready, scalable platforms
+- 🔗 https://www.elevenplusforall.co.uk
 
 Let’s turn ideas into working solutions 🚀
 
@@ -41,7 +42,7 @@ Let’s turn ideas into working solutions 🚀
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
